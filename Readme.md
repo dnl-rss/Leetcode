@@ -8,4 +8,4 @@ Algorithm problems are fun; they are like video games.  Here are some leetcode s
 
 2. Trips and Users (SQL): [problem statement](https://leetcode.com/problems/trips-and-users/), [solution](trips-and-users.sql)
 
-3. Container With Most Water: [problem statement](https://leetcode.com/problems/container-with-most-water/), [solution](https://leetcode.com/problems/container-with-most-water/)
+3. Container With Most Water: [problem statement](https://leetcode.com/problems/container-with-most-water/), [solution](container-with-most-water.py)
